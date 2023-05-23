@@ -1,0 +1,14 @@
+.login-btn{
+    display: flex;
+    justify-content: center;
+}
+
+.li-btn{
+    width: 100px;
+    text-align: center;
+}
+
+.tab-content{
+    display: flex;
+    justify-content: center;
+}
